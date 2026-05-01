@@ -1,5 +1,3 @@
-
-<html lang="es">
 <head>
     <meta charset="UTF-8">
     <title>SCC | Simulador de Colectivos Cordobeses</title>
