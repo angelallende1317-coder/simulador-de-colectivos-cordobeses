@@ -1,5 +1,4 @@
-<head>
-    <meta charset="UTF-8">
+
     <title>SCC | Simulador de Colectivos Cordobeses</title>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
     <style>
